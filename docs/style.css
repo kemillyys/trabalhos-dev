@@ -50,23 +50,16 @@ h1{
     border-radius: 10px;
 }
 
-#info{
+#info, #formacao, #comp{
     background-color: #AEB2FC;
     color: rgb(34, 34, 34);
-    padding: 20px 50px 20px 40px;
-    margin-right: 80%;
+    padding: 30px 40px;
 }
 
 .sobre{
     background-color: #AEB2FC;
     color: rgb(34, 34, 34);
     padding: 15px 20px 20px 20px;
-}
-
-#formacao, #comp{
-    background-color: #AEB2FC;
-    color: rgb(34, 34, 34);
-    padding: 30px 40px;
 }
 
 .redess{
