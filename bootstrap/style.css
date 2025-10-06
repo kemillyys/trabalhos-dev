@@ -1,0 +1,16 @@
+.bg-netshoes-purple{
+    background-color: rgb(159, 57, 255);
+}
+
+.main-netshoes{
+    background-color: rgb(219, 219, 219);
+}
+
+.row{
+    background-color: rgb(189, 189, 189);
+    padding: 3%;
+}
+
+.produto-box{
+    background-color: gray;
+}
